@@ -82,7 +82,7 @@ tailwindcss: ^3.4.14
 
 vite: ^5.4.9
 
-## License
+## Licence
 This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed for your projects.
 
 ## Author
